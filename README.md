@@ -1,2 +1,3 @@
 # Lie-algebra
-Repository for simple python scripts used for Lie algebra homework.
+
+Using SageMath to write a python script which takes in an arbitrary Cartan matrix and constructs the corresponding root system.
